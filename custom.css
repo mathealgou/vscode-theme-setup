@@ -1,0 +1,50 @@
+body {
+	text-shadow: rgba(193, 87, 255, 0.342) 0px 0px 4px !important;
+	/* text-shadow: none !important; */
+
+}
+
+.tab {
+	border-top-left-radius: 2px;
+	border-top-right-radius: 7px;
+}
+
+.slider {
+	border-radius: 4px;
+}
+
+/* .scrollbar.vertical {
+	max-width: 7px;
+} */
+
+.margin-view-overlays {
+	max-width: 20px !important;
+	padding: 0 !important;
+}
+
+.margin-view-overlays div {
+	max-width: 20px !important;
+	margin: 0 !important;
+	padding: 0 !important;
+
+}
+
+.margin-view-overlays div .line-numbers {
+	max-width: 20px !important;
+	margin: 0 !important;
+	padding: 0 !important;
+}
+
+.action-item.icon {
+	text-shadow: rgb(79, 12, 117) 1px 1px 15px !important;
+	transition: all 0.5s ease;
+}
+
+.action-item.icon.checked {
+	text-shadow: rgb(202, 111, 255) 1px 1px 15px !important;
+	box-shadow: none !important;
+}
+
+.split-view-view.visible {
+	transition: all 0.5s ease;
+}
